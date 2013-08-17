@@ -1,3 +1,9 @@
+.btcf:after {
+  content:"";
+  display:table;
+  clear:both;
+ }
+
 body {
 	min-width: 720px;
 	background-image: url("/images/seamlesspaper4.jpg");
@@ -11,11 +17,16 @@ header {
 	top: 0;
 	height: 3em;
 	background-image: url("/images/grunge9.jpg");
+	box-shadow: 0 2px 4px 2px #2d1070;
 }
 
-header h1 {
+.banner {
+	margin: 0 10%;
+}
+
+.banner h1 {
+	margin: 0;
 	color: white;
-	margin: 0 0 0 10%;
 	width: 50%;
 	padding: .25em 0 0 0;
 	float: left;
@@ -24,7 +35,22 @@ header h1 {
 .twitter-follow-button {
 	float: right;
 	padding: .5em 0 0 0;
-	margin-right: 10%;
+}
+
+.me {
+	position: relative;
+	background-image: url("/images/seamlesstexture19_1200.jpg");
+	height: 2em;
+	margin: 0 19%;
+	border-radius: .3em;
+	box-shadow: 0 2px 4px 1px #2d1070;
+}
+
+.me h3 {
+	text-align: center;
+	margin: 0;
+	padding: .25em 0 0 0;
+	color: #2d1070;
 }
 
 .main-container {
