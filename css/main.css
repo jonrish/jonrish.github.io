@@ -51,7 +51,6 @@ header {
 	text-align: center;
 	margin: 0;
 	padding: .25em 0 0 0;
-	color: #2d1070;
 }
 
 .main-container {
@@ -90,11 +89,23 @@ footer {
 }
 
 .footer-content {
-	margin: 1em 10%;
+	margin: 0 10%;
 }
 
 .footer-content button {
 	cursor: pointer;
+}
+
+.footer-links {
+	float: left;
+	list-style: none;
+	margin: 1em 0 0 25%;
+}
+
+.footer-buttons {
+	float: right;
+	list-style: none;
+	margin: 1em 25% 0 0;
 }
 
 
