@@ -8,20 +8,30 @@ title: The Rish Dish
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date: "%m-%d-%Y" }}</span>
   </p>
   <div class="content">
     {{ post.content }}
   </div>
 {% endfor %}
 
-<!-- <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
-
- -->
+<nav class='btcf'>
+	<ul>
+		<li><a href="http://jonrish.github.io/"><button>Home</button></a></li>
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page == 1 %}
+				<li><a href="http://jonrish.github.io/"><button>Newer Posts</button></a></li>
+			{% else %}
+				<li><a href="/page{{ paginator.previous_page }}"><button>Newer Posts</button></a></li>
+			{% endif %}
+		{% endif %}
+		{% if paginator.next_page %}
+			<li><a href="/page{{ paginator.next_page }}"><button>Older Posts</button></a></li>
+		{% endif %}
+		{% if paginator.page == 1 %}
+			<li>Page 1 of {{ paginator.total_pages }}</li>
+		{% else %}
+			<li>Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
+		{% endif %}
+	</ul>
+</nav>

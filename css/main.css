@@ -19,6 +19,10 @@ a:visited {
 	color: darkblue;
 }
 
+button {
+	cursor: pointer;
+}
+
 header {
 	width: 100%;
 	position: relative;
@@ -35,10 +39,13 @@ header {
 
 .banner h1 {
 	margin: 0 auto;
-	color: white;
 	width: 50%;
 	padding: .25em 0 0 0;
 	float: left;
+}
+
+.banner a {
+	color: white;
 }
 
 .me {
@@ -59,11 +66,31 @@ header {
 .main-container {
 	position: relative;
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: 0 10% 10em 10%;
+	opacity: .7;
 }
 
 .main-container h1 {
 	position: relative;
+}
+
+nav ul {
+	float: right;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	font-size: 1em;
+	margin: 0 .15em;
+}
+
+nav button {
+	background-image: url("/images/seamlesstexture19_1200.jpg");
+	font-size: 1em;
+	border-radius: .5em;
+	width: 8em;
+	box-shadow: 0 0 2px 2px #2d1070;
 }
 
 footer {
@@ -79,10 +106,6 @@ footer {
 	margin: 0 auto;
 	min-width: 720px;
 	max-width: 1200px;
-}
-
-.footer-content button {
-	cursor: pointer;
 }
 
 .footer-links {

@@ -3,6 +3,4 @@ layout: post
 title:  "Testing 1-2-3"
 ---
 
-# Testting 1, 2, 3 
-
-is this thing on?
+Test 1 - is this thing on?
