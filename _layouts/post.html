@@ -13,11 +13,10 @@ layout: main
 		<li><a href="http://jonrish.github.io/"><button>Home</button></a></li>
 		<li><a href="javascript:history.go(-1)"><button>Back</button></a></li>
 		{% if page.previous %}
-			<li><a href="{{ page.previous.url }}"><button>Next Older Post</button></a></li>	
+			<li><a href="{{ page.previous.url }}"><button>Older Post</button></a></li>
 		{% endif %}
 		{% if page.next %}
-			<li><a href="{{ page.next.url }}"><button>Next Newer Post</button></a></li>
+			<li><a href="{{ page.next.url }}"><button>Newer Post</button></a></li>
 		{% endif %}
 	</ul>
 </nav>
-

@@ -1,5 +1,4 @@
 name: The Rish Dish
 markdown: redcarpet
 pygments: true
-paginate: 2
-# paginate_path: "JonRish/page:num"
+paginate: 3
