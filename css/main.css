@@ -66,20 +66,6 @@ header {
 	position: relative;
 }
 
-.pop-up-container {
-	display: none;
-	background-image: url("/images/seamlesstexture19_1200.jpg");
-}
-.FAQ-pop-up {
-	position: absolute;
-	top: 5em;
-	margin: 0 20%;
-	display: none;
-	background-image: url("/images/seamlesstexture19_1200.jpg");
-	overflow-y : auto;
-	overflow-x : hidden;
-}
-
 footer {
 	background-image: url("/images/seamlesstexture19_1200.jpg");
 	width: 100%;
