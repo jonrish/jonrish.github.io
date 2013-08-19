@@ -3,4 +3,12 @@ layout: post
 title:  "Testing 1-2-3"
 ---
 
-Test 1 - is this thing on?
+Test 1-2. Hey is this thing on? 
+
+So this is my first post. I haven't really determined what this blog will be all about. I imagine that some days it will be about work. Some days it will about about the things I'm stuck on and the things I'm learning. Other days it may be about my kids or who knows what. If you're looking for expertise you probably won't find it here. As a developer I'm at the tip of the iceberg. While there is a long way to go and it can be pretty scary to look down, it's a pretty exciting place to be. 
+
+My hope is to update this space regularly. Of course I've been down that road before and somehow always felt that I didn't have something important to say. This time the plan is to say it anyway, no matter how unimportant it may be. 
+
+Where have I been? What have I been doing? Well right now I'm watching the Red Sox and Yankees - listening to Joe and Dave of course! Although you may be surprised to know that I haven't been to Fenway since my last broadcast. I haven't watched or listened to that many games. I've been too busy and it's been ok. I miss my friends. I miss the people I work with, but I haven't missed the job. I know that may sound strange to many, but it's true. Sure it seems like a dream job for some, but it wasn't for me. At least not anymore. I got as much out of that dream as I could. 
+
+A lot has happened since I was last in the public eye. I wish I could say it has all been great, but it hasn't. I have no regrets. I loved every minute of my broadcasting career and I firmly believe that this new direction is the right thing at the right time. Will it ultimately work? Technically I suppose time will tell, but in my mind the answer is yes. Why? Because I'm a stubborn son of a bitch. It'll happen because I'm persistent. There were plenty of talented broadcasters who never became broadcasters. They weren't willing to pay their dues, sacrifice and put up with all the bullshit. I was. All the way to the major leagues. Now I'm a web developer.

@@ -27,7 +27,7 @@ header {
 	width: 100%;
 	position: relative;
 	top: 0;
-	height: 3em;
+	height: 3.5em;
 	margin-bottom: 3em;
 	background-image: url("/images/grunge9.jpg");
 	box-shadow: 0 2px 4px 2px #2d1070;
@@ -38,10 +38,11 @@ header {
 }
 
 .banner h1 {
-	margin: 0 auto;
-	width: 50%;
+	margin: 0 10%;
+	width: 100%;
 	padding: .25em 0 0 0;
 	float: left;
+	font-size: 2.5em;
 }
 
 .banner a {
@@ -67,7 +68,6 @@ header {
 	position: relative;
 	max-width: 1200px;
 	margin: 0 10% 10em 10%;
-	opacity: .7;
 }
 
 .main-container h1 {
