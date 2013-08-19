@@ -1,0 +1,22 @@
+---
+layout: post
+title: Its where all the cool kids hang out
+---
+
+<strong>My new office!</strong>
+
+<img class="post-pics" src="/images/post_images/natick_mall.jpg">
+
+That my friends is the Natick Mall. <em>I work at the mall!</em> I worked at the mall today in fact. 
+
+Today was my first day as a junior developer at <a href="http://barbershoplabs.com/" target="_blank">Barbershop Labs.</a> They told us at <a href="http://www.launchacademy.com" target="_blank">Launch Academy</a> that they were simulating an actual work environment, but they never covered anything quite like this. 
+
+So how did the first day go? Well Adam hasn't fired me yet, that's gotta be a good thing right? Actually I did what many people do on their first day - I listened a lot. I kept my mouth shut and tried not to sound stupid. I learned a long time ago on the radio that people have no idea how little you know unless you tell them. 
+
+It's been a strange four months. I can honestly say that the period of time since I quit my job has been nothing like I expected because I didn't really know what to expect. I still don't in many ways. It was nice to go to work today.
+
+Next up - a project. We've already started planning. There will be a lot more about it in this space as I work through the development. In fact you'll probably be sick of it long before it's finished. To be completely honest it's Adam's idea, and when he tossed it out there I had no interest at all. It turns out what I did was 'smile fuck' him. Now those of you who know me know I never talk like that, let alone put words like that in print. That's a term Adam introduced me to today. I guess he's rubbing off on me already. Last week when I first met Adam and Matt in person Adam is explaining his idea while I just sat there, nodding my head and smiling while all the time thinking there's no way in hell I'm going to do that. I smile fucked him. 
+
+Turns out I am going to build his idea. The gist of it is you go to a website, enter some basic info and pay me. I take that info and create a customized play by play highlight featuring you or whoever you choose as the star. You could get it for your Dad for Christmas! I'll voice it and produce and bang there you have it, ready for download. I think at some point soon I'll post a form here just to see if I can get a little feedback about what you may or may not be interested in as I move along in process. 
+
+Day one done. Just remember, if your ever at the Natick Mall keep your eyes open. If you see three guys with computers looking a little too comfortable on the couches it's probably just another day at the office for Barbershop Labs.

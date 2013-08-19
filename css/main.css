@@ -74,6 +74,12 @@ header {
 	position: relative;
 }
 
+.post-pics {
+	margin: 0 7%;
+	width: 50%;
+	height: auto;
+}
+
 nav ul {
 	float: right;
 	list-style: none;

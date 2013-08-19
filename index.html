@@ -15,7 +15,9 @@ title: The Rish Dish
 
 <nav class='btcf'>
 	<ul>
-		<li><a href="http://jonrish.github.io/"><button>Home</button></a></li>
+		{% if paginator.previous_page == 1 %}
+			<li><a href="http://jonrish.github.io/"><button>Home</button></a></li>
+		{% endif %}
 		{% if paginator.previous_page %}
 			{% if paginator.previous_page == 1 %}
 				<li><a href="http://jonrish.github.io/"><button>Newer Posts</button></a></li>
