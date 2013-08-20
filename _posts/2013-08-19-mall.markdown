@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Its where all the cool kids hang out
+title: It's where all the cool kids hang out
 ---
 
 <strong>My new office!</strong>
