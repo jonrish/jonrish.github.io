@@ -1,0 +1,10 @@
+---
+layout: post
+title: Who doesn't like forms?
+---
+
+Alright, this my small attempt at market research. As you can see, we now have a form. I kept it short. There are two text boxes so you can add more if you'd like. Basically I'm just trying to figure out if anybody really wants something like this and if so, would they be willing to pay for it. 
+
+Got started on the app today. I haven't come up with a good title yet. How about "You make the play!"? It's a work in progress. This project is going to have a fair amount of admin only stuff. That's not something I've built in the past so I've starting thinking more about that end of things. The admin (meaning me) is going to have to manage the different order states, the registered users and of course upload the finished product so that it's available for download. 
+
+Gotta start somewhere right? Now if you haven't already, fill out the form!
