@@ -183,3 +183,15 @@ footer {
 	}
 }
 
+@media screen and (max-width: 720px)
+and (orientation: landscape) {
+	footer {
+		position: relative;
+	}
+
+	.main-container {
+		margin-bottom: 0;
+	}
+
+}
+
