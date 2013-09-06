@@ -177,9 +177,7 @@ footer {
 	}
 
 	.research-form {
-		float: none;
-		width: 100%;
-		height: 825px;
+		display: none;
 	}
 }
 
