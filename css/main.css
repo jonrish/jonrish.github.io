@@ -75,25 +75,13 @@ header {
 	position: relative;
 }
 
-.research-form {
-	float: right;
-	width: 34%;
-	height: 1060px;
-	margin-top: 5em;
-}
-
-iframe {
-	border-radius: 1em;
-}
 
 .content-container {
-	float: left;
-	width: 63%;
-	margin: 0 3% 0 0;
+	width: 100%;
 }
 
 .post-pics {
-	margin: 0 7%;
+	margin: 0 25%;
 	width: 50%;
 	height: auto;
 }
