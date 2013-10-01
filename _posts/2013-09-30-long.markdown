@@ -1,0 +1,12 @@
+---
+layout: post
+title: Am I the Smart One or The Dumb One?
+---
+
+I got started on a new project at work today. We picked up a rails app that was developed by someone else. The client is looking to make some changes and improvements. I began browsing through some of the code over the weekend and that's when I started to worry. There was a whole bunch of stuff going on that made no sense to me. The more I browsed the more confusing it seemed. 
+
+As you know I haven't been at this for too long. At Launch Academy they showed us common mistakes to avoid and things not to do, but we didn't spend a whole lot of time looking at file after file of confusing and unnecessarily complicated code. (except of course some of my own stuff!) If I had understood everything in this codebase then I think we'd have an even bigger problem. 
+
+Nate and Adam just kind of chuckled - well mostly Adam - as I was going through some of this on the office monitor and trying to figure some things out. I'm not sure if they're smiling because they've been there before and can identify. For all I know they're smiling because they're happy it's me and not them. 
+
+What they do have is lots of experience. I have learned quite a bit in a short period of time, but I am not yet a confident programmer. I think that'll take a while. Nate astutely pointed out that every time he gets into a new project with an existing codebase he has to figure out if he's the smart one or the dumb one. There is so much I don't know that I just assume that when I read code I don't understand I'm the dumb one. That's probably a dumb way to look at things. 
