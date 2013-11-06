@@ -1,0 +1,24 @@
+---
+layout: post
+title: Sprint
+---
+
+I've been a Sprint customer for a long time. I've lost track of how many different phones I've had over the years. I notice the puzzled looks I receive if it comes up somehow that I use Sprint. In fact I've defended and recommended Sprint plenty of times over the years. I am also an early adopter which can come with a bit of pain as well. 
+
+I'm an Android guy when it comes to phones and tablets. Monday my brand new Nexus 5 arrived from Google. $400 for 32gb of unlocked high end goodness. Sure I'd rather pay $150 or $200, but I'm really tiring of contracts and restrictions. It's my sixth smartphone and the first not made by HTC. I started with several Windows Mobile versions before there was an iPhone. The generically named Sprint PPC6700, which came out in 2005. This is what it looked like:
+
+<img class="post-pics" src="/images/post_images/PPC6700.jpg">
+
+From there I moved on to the Touch Pro and the Touch Pro 2. By then Windows Mobile was changing and becoming irrelevant. I couldn't resist Android anymore and jumped in with the original EVO 4G. That was a great phone for it's time. I held out long enough to get a EVO 4G LTE when eligible for an upgrade. I couldn't make it to another upgrade this time around. I started to rethink my buying habits when the Nexus 4 came out. I became jealous of my son's HTC One. I thought about the HTC Google Play edition, but $600 is just too much. I don't want Sense, or Touch Wiz or anything else. I just want pure Android. So I waited for the Nexus 5, ordered in hour one on 10/31 and it showed up two days ago. I have yet to actually make a call with my new phone. 
+
+The release of the Nexus 5 is a pretty big deal in my distorted reality. I know I'm a tech geek, but I'm OK with that. I figured the new Google flagship might be a big deal for Sprint. Even if it's not among their top priorities I thought people who worked for Sprint would at least be able to help me activate my phone. Now to be fair, I'm making a sweeping generalization based on my own individual experience, and I'm sure there are some Sprint employees who do know what a Nexus 5 is. Unfortunately most of the ones I talked to did not. Most, but not all, tried to be helpful despite being clueless. 
+
+Here's the rundown in chronological order:
+
+1. 11/4 by chat - told I don't need anything special to activate my phone. Me: "Don't I need a sim card?". Rep: "No. Not unless your traveling internationally."
+2. 11/4 by chat - after meid number not recognized told in fact I do need a sim card. Instructed to go to store where they would provide one and help me activate my phone. 
+3. 11/5 in person - Sprint Store at 85 Worcester Road, Framingham, MA. This was by far the worst experience. The first person told me I had purchased an incompatible phone. He then proceeded to tell me that Sprint uses CDMA. I informed him this phone included CDMA and he looked at me like I had two heads. He had no idea what a Nexus 5 was and insisted it would never work on Sprint. He then checked with a co-worker. This person claimed that sprint stores never carry sim/uicc cards, that they never give them out and there was no way for me to get one. The only help they offered - and I use the term help loosely - "you need to return the phone to Google." I left the store very angry and embarrassed for the company I had defended and recommended. 
+4. 11/5 by phone sitting in the store parking lot. - Talked to five different people. Most were nice and tried to help, but didn't know what to do. Again lots of misinformation. Told Google should have included a sim card. Told to return the phone to Google. Transferred to international to order a sim card. They said I couldn't get a sim card for a phone that wasn't already activated on my account. The manager I finally spoke to said there was nothing she could do. To her credit she did look into it further and later called me back. She said I need to go to the store at 85 Worcester Road and they would be able to help me. 
+5. 11/5 by chat - finally someone who knew what a Nexus 5 was. She immediately gave me a link to chat with a international representative. That's how I found Anton A. He new all about my phone and what I needed. He promised it would take less than five minutes and it did. My card should be waiting for me when I get home. 
+
+That was a lot of pain to get a sim card so I can activate a phone. It should not be this hard. I want to like Sprint. They're not making it easy. 
